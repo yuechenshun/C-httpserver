@@ -1,2 +1,2 @@
 # C-httpserver
-基于C++线程池的高并发Http服务器
+简单Http服务器 基于C++线程池
